@@ -1,3 +1,4 @@
 colors = ['red', 'violet', 'blue']
-puts [1,2,3].zip(colors)
+num=[1,2,3]
+p colors.zip(num)
 
